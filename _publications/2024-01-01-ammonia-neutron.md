@@ -8,5 +8,5 @@ excerpt: 'Combines inelastic neutron scattering with neural-network quantum mole
 date: 2024-01-01
 venue: 'Nature Communications'
 paperurl: 'https://doi.org/10.1038/s41467-024-48246-9'
-citation: 'Linker, T.M., Krishnamoorthy, A., Daemen, L.L., Ramirez-Cuesta, A.J., Nomura, K., Nakano, A., Cheng, Y.Q., Hicks, W.R., Kolesnikov, A.I., & Vashishta, P. (2024). <i>Neutron Scattering and Neural-Network Quantum Molecular Dynamics Investigation of the Vibrations of Ammonia Along the Solid-to-Liquid Transition</i>. Nature Communications, 15(1), 3911.'
+citation: 'Linker, T.M., Krishnamoorthy, A., Daemen, L.L., et al. (2024). <i>Neutron Scattering and Neural-Network Quantum Molecular Dynamics Investigation of the Vibrations of Ammonia Along the Solid-to-Liquid Transition</i>. Nature Communications, 15(1), 3911.'
 ---

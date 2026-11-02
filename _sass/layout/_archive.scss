@@ -48,6 +48,17 @@
   }
 }
 
+/* Research page theme headers: bolder and in the site's link color so they stand out from body text */
+.publication-theme-title {
+  font-weight: bold;
+  color: var(--global-link-color);
+}
+
+.publication-theme-icon {
+  color: var(--global-link-color);
+  font-size: 0.85em;
+}
+
 /* remove border*/
 .page__content {
 

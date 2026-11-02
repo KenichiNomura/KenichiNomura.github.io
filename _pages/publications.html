@@ -7,10 +7,6 @@ author_profile: true
 
 <p>My research develops exascale computing methods, machine-learning interatomic potentials and foundation models, and quantum molecular dynamics simulations for materials, with applications spanning energy materials, two-dimensional electronics, and the space environment. Below is a selection of representative recent publications, organized by research theme; it is not exhaustive.</p>
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">Citation metrics (3,729 citations, h-index 34, as of November 2026) and the complete publication record are available on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
@@ -18,9 +14,9 @@ author_profile: true
   {% for category in site.publication_category %}
     {% assign theme_pubs = site.publications | where: "category", category[0] | sort: "rank" %}
     {% if theme_pubs.size > 0 %}
-      <h2 class="archive__subtitle">{{ category[1].title }}</h2>
+      <h2 class="archive__subtitle publication-theme-title">{{ category[1].title }}</h2>
       {% for post in theme_pubs %}
-        {% include archive-single.html %}
+        {% include archive-single.html cat_icon=category[1].icon %}
       {% endfor %}
     {% endif %}
   {% endfor %}

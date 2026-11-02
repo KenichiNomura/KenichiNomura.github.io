@@ -82,10 +82,13 @@ author:
 publication_category:
   exascale:
     title: 'Exascale Computing for Materials Simulations'
+    icon: 'fa-bolt'
   ai_ml:
     title: 'AI, ML and Foundation Models for Materials'
+    icon: 'fa-robot'
   qmd:
     title: 'Quantum Molecular Dynamics of Matter'
+    icon: 'fa-atom'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

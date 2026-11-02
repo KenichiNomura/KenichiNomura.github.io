@@ -14,9 +14,10 @@ author_profile: true
   {% for category in site.publication_category %}
     {% assign theme_pubs = site.publications | where: "category", category[0] | sort: "rank" %}
     {% if theme_pubs.size > 0 %}
+      {% assign theme_icon = category[1].icon %}
       <h2 class="archive__subtitle publication-theme-title">{{ category[1].title }}</h2>
       {% for post in theme_pubs %}
-        {% include archive-single.html cat_icon=category[1].icon %}
+        {% include archive-single.html cat_icon=theme_icon %}
       {% endfor %}
     {% endif %}
   {% endfor %}

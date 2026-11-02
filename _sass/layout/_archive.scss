@@ -48,14 +48,14 @@
   }
 }
 
-/* Research page theme headers: bolder and in the site's link color so they stand out from body text */
+/* Research page theme headers: bold strong blue so they stand out from body text */
 .publication-theme-title {
   font-weight: bold;
-  color: var(--global-link-color);
+  color: rgb(0, 0, 255);
 }
 
 .publication-theme-icon {
-  color: var(--global-link-color);
+  color: rgb(0, 0, 255);
   font-size: 0.85em;
 }
 

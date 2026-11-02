@@ -59,6 +59,26 @@
   font-size: 0.85em;
 }
 
+/* Small per-paper thumbnail (official figure/graphic, when the publisher provides one) */
+.publication-thumb {
+  float: left;
+  max-width: 90px;
+  max-height: 90px;
+  margin: 0 1em 0.5em 0;
+  border-radius: 4px;
+  overflow: hidden;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+
+.archive__item {
+  @include clearfix();
+}
+
 /* remove border*/
 .page__content {
 

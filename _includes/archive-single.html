@@ -24,6 +24,10 @@
           {% endif %}
           alt="">
       </div>
+    {% elsif post.collection == 'publications' and teaser %}
+      <div class="publication-thumb">
+        <img src="{{ teaser }}" alt="" loading="lazy">
+      </div>
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">

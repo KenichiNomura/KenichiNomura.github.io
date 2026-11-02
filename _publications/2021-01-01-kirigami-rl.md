@@ -4,6 +4,8 @@ collection: publications
 category: ai_ml
 rank: 4
 permalink: /publication/2021-01-01-kirigami-rl
+header:
+  teaser: 'https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2Fs41524-021-00572-y/MediaObjects/41524_2021_572_Fig1_HTML.png'
 excerpt: 'Trains a reinforcement-learning agent to autonomously discover kirigami cut patterns that make two-dimensional materials stretchable.'
 date: 2021-01-01
 venue: 'npj Computational Materials'

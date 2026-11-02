@@ -82,10 +82,10 @@ author:
 publication_category:
   exascale:
     title: 'Exascale Computing for Materials Simulations'
-    icon: 'fa-server'
+    icon: 'fa-bolt'
   ai_ml:
     title: 'AI, ML and Foundation Models for Materials'
-    icon: 'fa-brain'
+    icon: 'fa-robot'
   qmd:
     title: 'Quantum Molecular Dynamics of Matter'
     icon: 'fa-atom'

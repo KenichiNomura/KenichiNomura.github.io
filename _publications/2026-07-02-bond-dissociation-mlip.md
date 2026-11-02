@@ -5,7 +5,7 @@ category: ai_ml
 rank: 1
 permalink: /publication/2026-07-02-bond-dissociation-mlip
 header:
-  teaser: 'https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2Fs41467-026-74919-8/MediaObjects/41467_2026_74919_Fig1_HTML.png'
+  teaser: 'https://media.springernature.com/w600/springer-static/image/art%3A10.1038%2Fs41467-026-74919-8/MediaObjects/41467_2026_74919_Fig1_HTML.png'
 excerpt: 'Shows that universal machine-learning interatomic potentials spontaneously develop chemically intuitive bond-dissociation-energy trends as an emergent capability, without being explicitly trained for it.'
 date: 2026-07-02
 venue: 'Nature Communications'

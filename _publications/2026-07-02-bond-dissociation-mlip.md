@@ -10,5 +10,6 @@ excerpt: 'Shows that universal machine-learning interatomic potentials spontaneo
 date: 2026-07-02
 venue: 'Nature Communications'
 paperurl: 'https://doi.org/10.1038/s41467-026-74919-8'
+newsurl: 'https://viterbischool.usc.edu/news/2026/08/can-ai-understand-a-fundamental-concept-of-chemistry/'
 citation: 'Hattori, S., Shimamura, K., Nomura, K., et al. (2026). <i>Chemical Intuition on Bond-Dissociation Energies as an Emergent Ability of Universal Machine-Learning Interatomic Potentials</i>. Nature Communications, 17(1), 8225.'
 ---

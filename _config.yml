@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : #"Your Name / Site Title"
+title                    : "AI for Materials"
 title_separator          : "-"
 name                     : &name "Ken-ichi Nomura"
 description              : &description "Associate Professor"

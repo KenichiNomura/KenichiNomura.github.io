@@ -59,6 +59,11 @@
   font-size: 0.85em;
 }
 
+/* Teaching page: course names in the same strong blue */
+.course-name {
+  color: rgb(0, 0, 255);
+}
+
 /* Small per-paper thumbnail (official figure/graphic, when the publisher provides one) */
 .publication-thumb {
   float: left;

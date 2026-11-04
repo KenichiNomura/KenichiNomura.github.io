@@ -16,7 +16,7 @@ Welcome to my website! I am currently an Associate Professor of Materials Scienc
   <div style="display:flex; align-items:center; margin-top:0.5em;">
     <img src='/files/images/news/usc-ai-chemistry.png' style='width:300px; height:auto; margin-right:1.5em; flex-shrink:0;'>
     <div>
-      USC Viterbi's Ken-ichi Nomura and Aiichiro Nakano found that a powerful AI model independently learned the chemical bond, a foundational chemistry concept it was never taught.<br>
+      USC Viterbi researchers found that a powerful AI model independently learned the chemical bond, a foundational chemistry concept it was never taught.<br>
       <em>August 2026, USC Viterbi School of Engineering</em>
     </div>
   </div>
@@ -38,7 +38,7 @@ Welcome to my website! I am currently an Associate Professor of Materials Scienc
   <div style="display:flex; align-items:center; margin-top:0.5em;">
     <img src='/files/images/news/usc-materials-simulation.png' style='width:300px; height:auto; margin-right:1.5em; flex-shrink:0;'>
     <div>
-      Allegro-FM, a USC Viterbi AI model, can simulate billions of atoms at once, enabling virtual tests of carbon-capturing, longer-lasting concrete before costly lab experiments.<br>
+      Allegro-FM, an foundation model for materials, can simulate billions of atoms at once, enabling virtual tests of carbon-capturing, longer-lasting concrete before costly lab experiments.<br>
       <em>July 2025, USC Viterbi School of Engineering</em>
     </div>
   </div>

@@ -9,11 +9,37 @@ redirect_from:
 
 Welcome to my website! I am currently an Associate Professor of Materials Science and Chemical Engineering Practice at University of Southern California. My research focuses on atomistic simulations using AI, Machine Learning, and High-performance computing, and educate next generation cyber-workforce at the nexus of exascale computing, artificial intelligence (AI) and quantum computing.
 
-**Recent Projects:**  
-[Equivariant Foundation Model for Exascale Molecular Dynamics Simulations](/projects/project-1/)  
-<img src='/files/images/allegrofm/toc.png' width='400'>   
-**keywords:** mlip, molecular dynamics, hpc  
+## News
 
-[Autonomous Event Miner using Deep Reinforcement Learning](/projects/project-2/)  
-<img src='/files/images/map/toc.png' width='400'>  
-**keywords:** deep reinforcement learning, long time dynamics, molecular diffusion  
+<div style="margin-bottom:2em;">
+  <strong><a href="https://viterbischool.usc.edu/news/2026/08/can-ai-understand-a-fundamental-concept-of-chemistry/">Can AI "Understand" a Fundamental Concept of Chemistry?</a></strong>
+  <div style="display:flex; align-items:center; margin-top:0.5em;">
+    <img src='/files/images/news/usc-ai-chemistry.png' style='width:300px; height:auto; margin-right:1.5em; flex-shrink:0;'>
+    <div>
+      USC Viterbi's Ken-ichi Nomura and Aiichiro Nakano found that a powerful AI model independently learned the chemical bond, a foundational chemistry concept it was never taught.<br>
+      <em>August 2026, USC Viterbi School of Engineering</em>
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom:2em;">
+  <strong><a href="https://www.alcf.anl.gov/news/argonne-s-aurora-supercomputer-drives-groundbreaking-simulations-explore-how-light-shapes">Argonne's Aurora Supercomputer Drives Groundbreaking Simulations to Explore How Light Shapes Quantum Materials</a></strong>
+  <div style="display:flex; align-items:center; margin-top:0.5em;">
+    <img src='/files/images/news/alcf-aurora-skyrmion.png' style='width:300px; height:auto; margin-right:1.5em; flex-shrink:0;'>
+    <div>
+      Using the Aurora exascale supercomputer, the team ran the largest-ever simulations of light interacting with quantum materials, modeling over a trillion atoms to reveal how light can switch the structure of ferroelectric topological materials.<br>
+      <em>November 2025, Argonne Leadership Computing Facility</em>
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom:2em;">
+  <strong><a href="https://viterbischool.usc.edu/news/2025/07/discovering-new-materials-ai-can-simulate-billions-of-atoms-simultaneously/">Discovering New Materials: AI Can Simulate Billions of Atoms Simultaneously</a></strong>
+  <div style="display:flex; align-items:center; margin-top:0.5em;">
+    <img src='/files/images/news/usc-materials-simulation.png' style='width:300px; height:auto; margin-right:1.5em; flex-shrink:0;'>
+    <div>
+      Allegro-FM, a USC Viterbi AI model, can simulate billions of atoms at once, enabling virtual tests of carbon-capturing, longer-lasting concrete before costly lab experiments.<br>
+      <em>July 2025, USC Viterbi School of Engineering</em>
+    </div>
+  </div>
+</div>

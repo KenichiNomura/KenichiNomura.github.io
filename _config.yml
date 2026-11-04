@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "AI for Materials"
+title                    : "AI and Advanced Computing for Materials"
 title_separator          : "-"
 name                     : &name "Ken-ichi Nomura"
 description              : &description "Associate Professor"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ken-ichi Nomura"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor of Chemical Engineering and Materials Science Practice"
+  bio              : "Associate Professor of Chemical Engineering and Materials Science"
   location         : "Los Angeles, CA"
   employer         : "University of Southern California"
   uri              : # URL

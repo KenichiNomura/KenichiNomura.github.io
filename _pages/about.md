@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "*Transforming Computational Materials Science with AI and Machine Learning*"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +8,7 @@ redirect_from:
 
 Welcome to my website! I am currently an Associate Professor of Materials Science and Chemical Engineering Practice at University of Southern California. My research focuses on atomistic simulations using AI, Machine Learning, and High-performance computing, and educate next generation cyber-workforce at the nexus of exascale computing, artificial intelligence (AI) and quantum computing.
 
-## News
+## <span style="color: rgb(0, 0, 255);">News</span>
 
 <div style="margin-bottom:2em;">
   <strong><a href="https://viterbischool.usc.edu/news/2026/08/can-ai-understand-a-fundamental-concept-of-chemistry/">Can AI "Understand" a Fundamental Concept of Chemistry?</a></strong>

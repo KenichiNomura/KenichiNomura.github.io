@@ -150,6 +150,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=VO_V270AAAAJ&hl=en&authuser=1"
+    - "https://orcid.org/0000-0002-1743-1419"
 
 
 # Analytics
